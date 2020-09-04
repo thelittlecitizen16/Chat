@@ -1,0 +1,12 @@
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.exe
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.deps.json
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.dll
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.pdb
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.dll
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.pdb
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.genruntimeconfig.cache

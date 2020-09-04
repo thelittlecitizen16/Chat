@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.exe
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.deps.json
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.dll
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.pdb
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.dll
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.pdb
+C:\Users\thelittlecitizen16\source\repos\ChatSocket\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.genruntimeconfig.cache
